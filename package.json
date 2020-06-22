@@ -1,0 +1,25 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "Projeto open source para fazer videos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IronIA69/video-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IronIA69/video-maker/issues"
+  },
+  "homepage": "https://github.com/IronIA69/video-maker#readme",
+  "dependencies": {
+    "crlf": "^1.1.1",
+    "diff": "^4.0.2",
+    "prefix": "^1.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
